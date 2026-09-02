@@ -1,5 +1,24 @@
 <div align="center">
 
+<img src="https://raw.githubusercontent.com/anon-443/anon-443/main/assets/matrix-banner.svg" alt="Animated matrix rain banner with ADEEN ASCII wordmark" width="100%" />
+
+<details>
+<summary><b>▸ Open terminal banner</b></summary>
+
+```text
+ █████╗ ██████╗ ███████╗███████╗███╗   ██╗
+██╔══██╗██╔══██╗██╔════╝██╔════╝████╗  ██║
+███████║██║  ██║█████╗  █████╗  ██╔██╗ ██║
+██╔══██║██║  ██║██╔══╝  ██╔══╝  ██║╚██╗██║
+██║  ██║██████╔╝███████╗███████╗██║ ╚████║
+╚═╝  ╚═╝╚═════╝ ╚══════╝╚══════╝╚═╝  ╚═══╝
+
+[ purple team online ] [ red team mindset ] [ ai automation armed ]
+└─$ detect → validate → automate → harden
+```
+
+</details>
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:070A12,45:17112B,75:4C1D95,100:00D9A6&height=210&section=header&text=ADEEN&fontSize=64&fontColor=F8FAFC&animation=fadeIn&fontAlignY=36&desc=PURPLE%20TEAM%20%7C%20RED%20TEAM%20%7C%20AI%20AUTOMATION&descAlignY=60&descSize=15" width="100%" />
 
 <a href="https://github.com/anon-443"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=2600&pause=900&color=00D9A6&center=true&vCenter=true&width=820&lines=Think+like+an+attacker.;Build+like+a+defender.;Automate+the+feedback+loop.;Purple+team+mindset%3A+detect+%E2%86%92+validate+%E2%86%92+harden." alt="Animated purple team introduction" /></a>
