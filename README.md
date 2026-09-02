@@ -13,19 +13,18 @@
 ██║  ██║██████╔╝███████╗███████╗██║ ╚████║
 ╚═╝  ╚═╝╚═════╝ ╚══════╝╚══════╝╚═╝  ╚═══╝
 
-[ purple team online ] [ red team mindset ] [ ai automation armed ]
+[ purple team online ] [ defender mindset ] [ ai automation armed ]
 └─$ detect → validate → automate → harden
 ```
 
 </details>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:070A12,45:17112B,75:4C1D95,100:00D9A6&height=210&section=header&text=ADEEN&fontSize=64&fontColor=F8FAFC&animation=fadeIn&fontAlignY=36&desc=PURPLE%20TEAM%20%7C%20RED%20TEAM%20%7C%20AI%20AUTOMATION&descAlignY=60&descSize=15" width="100%" />
 
-<a href="https://github.com/anon-443"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=2600&pause=900&color=00D9A6&center=true&vCenter=true&width=820&lines=Think+like+an+attacker.;Build+like+a+defender.;Automate+the+feedback+loop.;Purple+team+mindset%3A+detect+%E2%86%92+validate+%E2%86%92+harden." alt="Animated purple team introduction" /></a>
+<a href="https://github.com/anon-443"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=2600&pause=900&color=00D9A6&center=true&vCenter=true&width=820&lines=Observe+like+a+defender.;Build+like+a+defender.;Automate+the+feedback+loop.;Purple+team+mindset%3A+detect+%E2%86%92+validate+%E2%86%92+harden." alt="Animated purple team introduction" /></a>
 
 <p>
   <a href="https://github.com/anon-443?tab=repositories"><img src="https://img.shields.io/badge/Focus-Purple%20Team-7C3AED?style=for-the-badge&labelColor=0B0F19" alt="Purple team focus" /></a>
-  <a href="https://github.com/anon-443"><img src="https://img.shields.io/badge/Mode-Red%20Team%20%2B%20AI%20Automation-00D9A6?style=for-the-badge&labelColor=0B0F19" alt="Red team and AI automation" /></a>
+  <a href="https://github.com/anon-443"><img src="https://img.shields.io/badge/Mode-Purple%20Team%20%2B%20AI%20Automation-00D9A6?style=for-the-badge&labelColor=0B0F19" alt="Purple team and AI automation" /></a>
   <a href="https://github.com/anon-443"><img src="https://komarev.com/ghpvc/?username=anon-443&style=for-the-badge&color=F97316&label=PROFILE+VIEWS" alt="Profile views" /></a>
 </p>
 
@@ -33,7 +32,7 @@
 
 ## `// operator profile`
 
-Cybersecurity-focused builder with a growing interest in **purple teaming, red teaming, threat detection, and AI-assisted automation**. The objective is to connect attacker tradecraft with defender visibility: emulate the threat, collect evidence, improve detections, and harden the system.
+Cybersecurity-focused builder with a growing interest in **purple teaming, threat detection, and AI-assisted automation**. The objective is to connect attacker tradecraft with defender visibility: emulate the threat, collect evidence, improve detections, and harden the system.
 
 > **Purple-team principle:** every offensive finding should become a defensive improvement.
 
@@ -86,7 +85,7 @@ The card below is updated daily by GitHub Actions from **repository metadata and
 
 ## `// interactive threat simulation`
 
-This animated visual demonstrates the purple-team feedback loop: simulated red-team activity produces signals, the system correlates them, and defensive controls respond. It is intentionally a **simulation**, not live Internet attack data.
+This animated visual demonstrates the purple-team feedback loop: simulated security activity produces signals, the system correlates them, and defensive controls respond. It is intentionally a **simulation**, not live Internet attack data.
 
 <div align="center">
 <img src="https://raw.githubusercontent.com/anon-443/anon-443/main/assets/threat-simulation.svg" alt="Animated simulated cyber threat paths from attack simulation to SOC response" width="100%" />

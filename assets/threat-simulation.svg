@@ -12,7 +12,7 @@
   <g font-family="ui-monospace, SFMono-Regular, Menlo, monospace" fill="#CBD5E1">
     <text x="58" y="70" font-size="22" font-weight="700" fill="#00D9A6">PURPLE-LAB // THREAT SIMULATION</text>
     <text x="58" y="101" font-size="14" fill="#F97316">SIMULATED ATTACK PATHS · DEFENSIVE VALIDATION · NOT LIVE INTERNET DATA</text>
-    <text x="58" y="457" font-size="13" fill="#94A3B8">RED TEAM INPUT</text>
+    <text x="58" y="457" font-size="13" fill="#94A3B8">SIMULATED SIGNAL</text>
     <text x="1020" y="457" font-size="13" text-anchor="end" fill="#94A3B8">SOC RESPONSE</text>
   </g>
   <g fill="none" stroke="url(#route)" stroke-width="3" stroke-linecap="round" opacity=".9">

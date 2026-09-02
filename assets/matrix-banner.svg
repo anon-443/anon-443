@@ -15,7 +15,7 @@
       <text x="310" y="-55">11001010 01001101</text><text x="310" y="-55"><animate attributeName="y" values="-55;350" dur="6s" begin="-2s" repeatCount="indefinite"/></text>
       <text x="470" y="-180">DETECT VALIDATE HARDEN</text><text x="470" y="-180"><animate attributeName="y" values="-180;350" dur="10s" begin="-6s" repeatCount="indefinite"/></text>
       <text x="660" y="-25">0x7C3AED 0x00D9A6</text><text x="660" y="-25"><animate attributeName="y" values="-25;350" dur="8s" begin="-1s" repeatCount="indefinite"/></text>
-      <text x="850" y="-140">red_team.log</text><text x="850" y="-140"><animate attributeName="y" values="-140;350" dur="7.5s" begin="-5s" repeatCount="indefinite"/></text>
+      <text x="850" y="-140">purple_ops.log</text><text x="850" y="-140"><animate attributeName="y" values="-140;350" dur="7.5s" begin="-5s" repeatCount="indefinite"/></text>
       <text x="1030" y="-70">AI://MONITOR</text><text x="1030" y="-70"><animate attributeName="y" values="-70;350" dur="9.5s" begin="-3s" repeatCount="indefinite"/></text>
       <text x="1120" y="-210">10110101</text><text x="1120" y="-210"><animate attributeName="y" values="-210;350" dur="6.5s" begin="-1.5s" repeatCount="indefinite"/></text>
     </g>
@@ -30,7 +30,7 @@
   <g font-family="ui-monospace, SFMono-Regular, Menlo, monospace" text-anchor="middle">
     <text x="600" y="88" font-size="15" fill="#94A3B8">┌──(adeen㉿purple-lab)-[~/security] ──┐</text>
     <text x="600" y="178" font-size="66" font-weight="700" letter-spacing="8" fill="#F8FAFC" stroke="url(#glow)" stroke-width="1">ADEEN</text>
-    <text x="600" y="218" font-size="17" fill="#00D9A6">PURPLE TEAM // RED TEAM // AI AUTOMATION</text>
+    <text x="600" y="218" font-size="17" fill="#00D9A6">PURPLE TEAM // AI AUTOMATION</text>
     <text x="600" y="258" font-size="14" fill="#CBD5E1">detect → investigate → validate → automate → harden</text>
   </g>
   <rect x="42" y="42" width="1116" height="246" rx="12" fill="none" stroke="#A78BFA" stroke-opacity=".14" stroke-width="8" filter="url(#soft)"/>
