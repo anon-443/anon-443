@@ -125,18 +125,7 @@ A focused static-analysis workbench that combines YARA rules with MITRE ATT&CK m
 <img src="https://skillicons.dev/icons?i=python,cpp,typescript,html,linux,bash,git,github&theme=dark" alt="Python, C++, TypeScript, HTML, Linux, Bash, Git, and GitHub icons" />
 </div>
 
-## `// activity telemetry`
 
-<div align="center">
-<img height="175" src="https://github-readme-stats.vercel.app/api?username=anon-443&show_icons=true&hide_border=true&bg_color=070A12&title_color=00D9A6&icon_color=F97316&text_color=CBD5E1&ring_color=7C3AED&include_all_commits=true" alt="GitHub activity statistics" />
-<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anon-443&layout=compact&hide_border=true&bg_color=070A12&title_color=00D9A6&text_color=CBD5E1&langs_count=6" alt="Top programming languages" />
-</div>
-
-## `// contribution signal`
-
-<div align="center">
-<img src="https://raw.githubusercontent.com/anon-443/anon-443/output/github-contribution-grid-snake-dark.svg" alt="Animated contribution grid" />
-</div>
 
 ## `// establish contact`
 
