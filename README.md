@@ -59,17 +59,18 @@ Cybersecurity-focused builder with a growing interest in **purple teaming, red t
 
 ## `// security telemetry`
 
-These counters represent **documented capabilities in the featured projects**, not live claims about external threat activity.
+The card below is updated daily by GitHub Actions from **repository metadata and documented project capabilities**. It is not a feed of live attacks or external threat-intelligence events.
 
 <div align="center">
+<img src="https://raw.githubusercontent.com/anon-443/anon-443/main/assets/security-telemetry.svg" alt="Daily project-derived security telemetry" width="100%" />
+</div>
 
-<a href="https://github.com/anon-443/ZTNA-Self-Healing-Network-Architecture"><img src="https://img.shields.io/badge/Detection%20pipeline-Detect%20%E2%86%92%20Decide%20%E2%86%92%20Enforce-00D9A6?style=for-the-badge&labelColor=0B0F19" alt="ZTNA detection pipeline" /></a>
-<a href="https://github.com/anon-443/ZTNA-Self-Healing-Network-Architecture"><img src="https://img.shields.io/badge/Response%20target-%3C500ms-F97316?style=for-the-badge&labelColor=0B0F19" alt="ZTNA response target under 500 milliseconds" /></a>
-<a href="https://github.com/anon-443/Secure-Distributed-File-System-with-AI-Monitoring-Agent"><img src="https://img.shields.io/badge/Encrypted%20cluster-3%20storage%20nodes-7C3AED?style=for-the-badge&labelColor=0B0F19" alt="Three-node encrypted storage cluster" /></a>
-<a href="https://github.com/anon-443/Secure-Distributed-File-System-with-AI-Monitoring-Agent"><img src="https://img.shields.io/badge/Service%20model-7%20independent%20services-2563EB?style=for-the-badge&labelColor=0B0F19" alt="Seven independent services" /></a>
-<a href="https://github.com/anon-443/YARA-Strings-Metadata-Static-Malware-Analyzer-Tool"><img src="https://img.shields.io/badge/Threat%20analysis-YARA%20%2B%20entropy%20%2B%20scoring-E11D48?style=for-the-badge&labelColor=0B0F19" alt="YARA entropy and threat scoring" /></a>
-<a href="https://github.com/anon-443/cybershield-sme"><img src="https://img.shields.io/badge/Assessment%20model-HTTPS%20%7C%20DNS%20%7C%20RDAP-F59E0B?style=for-the-badge&labelColor=0B0F19" alt="CyberShield passive assessment model" /></a>
+## `// interactive threat simulation`
 
+This animated visual demonstrates the purple-team feedback loop: simulated red-team activity produces signals, the system correlates them, and defensive controls respond. It is intentionally a **simulation**, not live Internet attack data.
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/anon-443/anon-443/main/assets/threat-simulation.svg" alt="Animated simulated cyber threat paths from attack simulation to SOC response" width="100%" />
 </div>
 
 ## `// featured operations`
