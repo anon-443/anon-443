@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 180" role="img" aria-labelledby="title desc">
+  <title id="title">Adeen security skills</title>
+  <desc id="desc">Animated custom icons for Purple Team, Threat Detection, AI Automation, and Secure Engineering.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" x2="1"><stop stop-color="#070A12"/><stop offset=".5" stop-color="#17112B"/><stop offset="1" stop-color="#0B2E2B"/></linearGradient>
+    <filter id="glow"><feGaussianBlur stdDeviation="3" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+  </defs>
+  <rect width="1000" height="180" rx="18" fill="url(#bg)" stroke="#334155"/>
+  <g font-family="ui-monospace, SFMono-Regular, Menlo, monospace" text-anchor="middle">
+    <g transform="translate(25 20)"><rect width="220" height="140" rx="14" fill="#111827" stroke="#7C3AED"/><circle cx="110" cy="56" r="25" fill="none" stroke="#A78BFA" stroke-width="3" filter="url(#glow)"><animate attributeName="r" values="22;30;22" dur="2.5s" repeatCount="indefinite"/></circle><path d="M96 56l10 10 20-22" fill="none" stroke="#00D9A6" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/><text x="110" y="108" font-size="14" fill="#F8FAFC">PURPLE TEAM</text><text x="110" y="130" font-size="11" fill="#A78BFA">validate • improve</text></g>
+    <g transform="translate(265 20)"><rect width="220" height="140" rx="14" fill="#111827" stroke="#E11D48"/><path d="M110 32l30 12v25c0 22-14 34-30 42-16-8-30-20-30-42V44z" fill="none" stroke="#F97316" stroke-width="3" filter="url(#glow)"/><path d="M95 70h30M110 55v30" stroke="#00D9A6" stroke-width="4" stroke-linecap="round"><animateTransform attributeName="transform" type="rotate" from="0 110 70" to="360 110 70" dur="5s" repeatCount="indefinite"/></path><text x="110" y="108" font-size="14" fill="#F8FAFC">THREAT DETECTION</text><text x="110" y="130" font-size="11" fill="#F97316">observe • correlate</text></g>
+    <g transform="translate(505 20)"><rect width="220" height="140" rx="14" fill="#111827" stroke="#00D9A6"/><circle cx="110" cy="62" r="26" fill="none" stroke="#00D9A6" stroke-width="3" filter="url(#glow)"/><circle cx="110" cy="62" r="8" fill="#F97316"><animate attributeName="r" values="6;11;6" dur="1.6s" repeatCount="indefinite"/></circle><path d="M110 28v22M110 74v22M76 62h22M122 62h22" stroke="#A78BFA" stroke-width="3"/><text x="110" y="108" font-size="14" fill="#F8FAFC">AI AUTOMATION</text><text x="110" y="130" font-size="11" fill="#00D9A6">analyze • automate</text></g>
+    <g transform="translate(745 20)"><rect width="230" height="140" rx="14" fill="#111827" stroke="#2563EB"/><path d="M115 30l34 13v28c0 24-17 38-34 47-17-9-34-23-34-47V43z" fill="none" stroke="#60A5FA" stroke-width="3" filter="url(#glow)"/><path d="M98 70l12 12 23-25" fill="none" stroke="#00D9A6" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/><text x="115" y="108" font-size="14" fill="#F8FAFC">SECURE ENGINEERING</text><text x="115" y="130" font-size="11" fill="#60A5FA">design • harden</text></g>
+  </g>
+</svg>

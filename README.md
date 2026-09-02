@@ -16,6 +16,12 @@ Cybersecurity-focused builder with a growing interest in **purple teaming, threa
 
 > **Purple-team principle:** every offensive finding should become a defensive improvement.
 
+## `// security skills`
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/anon-443/anon-443/main/assets/security-skills.svg" alt="Animated security skill icons for Purple Team, Threat Detection, AI Automation, and Secure Engineering" width="100%" />
+</div>
+
 ## `// interactive terminal`
 
 ```text
