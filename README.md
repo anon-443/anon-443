@@ -78,19 +78,19 @@ These counters represent **documented capabilities in the featured projects**, n
 
 A NIST SP 800-207-aligned Zero Trust implementation that correlates ICMP, SYN, UDP-flood, port-scan, and DDoS signals; assigns per-IP trust scores; enriches events with local AI analysis and GeoIP context; and enforces response through iptables with watchdog re-verification. The project also includes an HTTPS SOC dashboard and HMAC-SHA256 audit logging.
 
-<img src="https://raw.githubusercontent.com/anon-443/anon-443/output/ztna-architecture.svg.png" alt="ZTNA self-healing architecture diagram" width="100%" />
+<img src="https://raw.githubusercontent.com/anon-443/anon-443/main/assets/ztna-architecture.svg.png" alt="ZTNA self-healing architecture diagram" width="100%" />
 
 ### [CyberShield SME](https://github.com/anon-443/cybershield-sme)
 
 An authorization-first, passive posture-assessment platform for small and medium businesses. It reviews HTTPS/TLS, selected headers and cookies, DNS, SPF, DMARC, MX, RDAP, certificate-transparency context, and public metadata; then produces deterministic A–F scoring, evidence-led reports, and AI-assisted remediation wording without letting the AI invent findings.
 
-<img src="https://raw.githubusercontent.com/anon-443/anon-443/output/cybershield-architecture.svg.png" alt="CyberShield SME architecture diagram" width="100%" />
+<img src="https://raw.githubusercontent.com/anon-443/anon-443/main/assets/cybershield-architecture.svg.png" alt="CyberShield SME architecture diagram" width="100%" />
 
 ### [Secure Distributed File System with AI Monitoring](https://github.com/anon-443/Secure-Distributed-File-System-with-AI-Monitoring-Agent)
 
 A seven-process local distributed file system with JWT-based Zero Trust authentication, AES-256-GCM encryption for file chunks, three-node replication, and detection coverage for brute force, ransomware, DDoS, and exfiltration patterns. A local Ollama agent performs root-cause analysis while the GRC dashboard maps security posture to NIST AI RMF, ISO 27001, and OWASP-oriented views.
 
-<img src="https://raw.githubusercontent.com/anon-443/anon-443/output/sdfs-architecture.svg.png" alt="Secure distributed file system architecture diagram" width="100%" />
+<img src="https://raw.githubusercontent.com/anon-443/anon-443/main/assets/sdfs-architecture.svg.png" alt="Secure distributed file system architecture diagram" width="100%" />
 
 ### [YARA Strings & Metadata Static Analyzer](https://github.com/anon-443/YARA-Strings-Metadata-Static-Malware-Analyzer-Tool)
 
