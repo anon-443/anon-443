@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/anon-443/anon-443/main/assets/matrix-banner.svg" alt="Animated matrix rain banner with ADEEN ASCII wordmark" width="100%" />
+<img src="https://raw.githubusercontent.com/anon-443/anon-443/main/assets/purple-team-banner.svg" alt="Animated matrix rain banner with ADEEN ASCII wordmark" width="100%" />
 
 <details>
 <summary><b>▸ Open terminal banner</b></summary>
@@ -22,11 +22,6 @@
 
 <a href="https://github.com/anon-443"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=2600&pause=900&color=00D9A6&center=true&vCenter=true&width=820&lines=Observe+like+a+defender.;Build+like+a+defender.;Automate+the+feedback+loop.;Purple+team+mindset%3A+detect+%E2%86%92+validate+%E2%86%92+harden." alt="Animated purple team introduction" /></a>
 
-<p>
-  <a href="https://github.com/anon-443?tab=repositories"><img src="https://img.shields.io/badge/Focus-Purple%20Team-7C3AED?style=for-the-badge&labelColor=0B0F19" alt="Purple team focus" /></a>
-  <a href="https://github.com/anon-443"><img src="https://img.shields.io/badge/Mode-Purple%20Team%20%2B%20AI%20Automation-00D9A6?style=for-the-badge&labelColor=0B0F19" alt="Purple team and AI automation" /></a>
-  <a href="https://github.com/anon-443"><img src="https://komarev.com/ghpvc/?username=anon-443&style=for-the-badge&color=F97316&label=PROFILE+VIEWS" alt="Profile views" /></a>
-</p>
 
 </div>
 
