@@ -1,0 +1,26 @@
+flowchart LR
+    A[Authorized Domain Owner] --> B[React UI]
+    B --> C[tRPC API]
+    C --> D[Validation\nPrivate-target safeguards]
+    D --> E[Passive Scan Engine]
+    E --> F[HTTPS / TLS]
+    E --> G[DNS / RDAP / CT]
+    E --> H[Robots / Metadata]
+    F --> I[Deterministic Findings]
+    G --> I
+    H --> I
+    I --> J[Weighted A-F Score]
+    J --> K[AI Remediation\nFindings only]
+    J --> L[(MySQL Scan History)]
+    K --> L
+    L --> M[Evidence-led Report]
+    style A fill:#17112B,stroke:#A78BFA,color:#F8FAFC
+    style B fill:#111827,stroke:#00D9A6,color:#F8FAFC
+    style C fill:#111827,stroke:#00D9A6,color:#F8FAFC
+    style D fill:#3B1D0B,stroke:#F97316,color:#F8FAFC
+    style E fill:#0B2E2B,stroke:#00D9A6,color:#F8FAFC
+    style I fill:#17112B,stroke:#A78BFA,color:#F8FAFC
+    style J fill:#0B2E2B,stroke:#00D9A6,color:#F8FAFC
+    style K fill:#3B1D0B,stroke:#F97316,color:#F8FAFC
+    style L fill:#111827,stroke:#94A3B8,color:#F8FAFC
+    style M fill:#111827,stroke:#00D9A6,color:#F8FAFC

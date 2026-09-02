@@ -1,0 +1,27 @@
+flowchart LR
+    A[Client] --> B[JWT Auth]
+    B --> C[Metadata Server]
+    C --> D[Chunk + Key Routing]
+    D --> E[Storage Node 1]
+    D --> F[Storage Node 2]
+    D --> G[Storage Node 3]
+    E --> H[AES-256-GCM\nEncrypted Chunks]
+    F --> H
+    G --> H
+    E --> I[Threat Agent]
+    F --> I
+    G --> I
+    I --> J[Local AI Agent\nOllama RCA]
+    J --> K[GRC Dashboard]
+    C --> K
+    style A fill:#17112B,stroke:#A78BFA,color:#F8FAFC
+    style B fill:#0B2E2B,stroke:#00D9A6,color:#F8FAFC
+    style C fill:#111827,stroke:#00D9A6,color:#F8FAFC
+    style D fill:#17112B,stroke:#A78BFA,color:#F8FAFC
+    style E fill:#111827,stroke:#94A3B8,color:#F8FAFC
+    style F fill:#111827,stroke:#94A3B8,color:#F8FAFC
+    style G fill:#111827,stroke:#94A3B8,color:#F8FAFC
+    style H fill:#0B2E2B,stroke:#00D9A6,color:#F8FAFC
+    style I fill:#3B1D0B,stroke:#F97316,color:#F8FAFC
+    style J fill:#3B1D0B,stroke:#F97316,color:#F8FAFC
+    style K fill:#111827,stroke:#00D9A6,color:#F8FAFC

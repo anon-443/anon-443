@@ -1,0 +1,19 @@
+flowchart LR
+    A[Traffic / Attack Simulator] --> B[IDS Agent]
+    B --> C[Threat Correlation]
+    C --> D[AI Analyst\nOllama qwen3:4b]
+    C --> E[Policy Decision Point\nDynamic Trust Score]
+    E --> F[Policy Enforcement Point\niptables DROP]
+    F --> G[Watchdog\nRe-verification]
+    E --> H[(SQLite)]
+    D --> I[HTTPS SOC Dashboard]
+    H --> I
+    style A fill:#17112B,stroke:#A78BFA,color:#F8FAFC
+    style B fill:#0B2E2B,stroke:#00D9A6,color:#F8FAFC
+    style C fill:#17112B,stroke:#A78BFA,color:#F8FAFC
+    style D fill:#3B1D0B,stroke:#F97316,color:#F8FAFC
+    style E fill:#0B2E2B,stroke:#00D9A6,color:#F8FAFC
+    style F fill:#0B2E2B,stroke:#00D9A6,color:#F8FAFC
+    style G fill:#17112B,stroke:#A78BFA,color:#F8FAFC
+    style H fill:#111827,stroke:#94A3B8,color:#F8FAFC
+    style I fill:#111827,stroke:#00D9A6,color:#F8FAFC

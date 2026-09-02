@@ -14,66 +14,109 @@
 
 ## `// operator profile`
 
-Cybersecurity-focused builder with a growing interest in **purple teaming, offensive security, threat detection, and AI-assisted automation**. The goal is to connect attacker tradecraft with defender visibility: emulate the threat, collect evidence, improve detections, and harden the system.
+Cybersecurity-focused builder with a growing interest in **purple teaming, red teaming, threat detection, and AI-assisted automation**. The objective is to connect attacker tradecraft with defender visibility: emulate the threat, collect evidence, improve detections, and harden the system.
 
 > **Purple-team principle:** every offensive finding should become a defensive improvement.
 
-## `// what I work on`
+## `// interactive terminal`
 
-| Track | Direction |
+```text
+┌──(adeen㉿purple-lab)-[~/security]
+└─$ help
+
+  about       operator profile and current focus
+  projects    strongest security and AI projects
+  architecture  system diagrams for featured tools
+  stack       tools and technologies
+  contact     collaboration and project feedback
+
+┌──(adeen㉿purple-lab)-[~/security]
+└─$ projects --featured
+
+  [01] ZTNA Self-Healing Network Architecture
+  [02] CyberShield SME
+  [03] Secure Distributed File System + AI Monitoring
+  [04] YARA Strings & Metadata Static Analyzer
+
+┌──(adeen㉿purple-lab)-[~/security]
+└─$ mission
+
+  detect → investigate → validate → automate → harden
+```
+
+<details>
+<summary><b>Run a command</b></summary>
+
+| Command | Output |
 | --- | --- |
-| **Purple teaming** | Bridging offensive findings with detection, validation, response, and hardening. |
-| **Red teaming** | Web reconnaissance, attack-surface thinking, adversary simulation, and security testing. |
-| **AI automation** | Using local AI, automation, and agents to accelerate triage, analysis, and remediation guidance. |
-| **Secure engineering** | Zero Trust, encrypted systems, DevSecOps, and security-focused application design. |
+| `about` | Purple-team security builder focused on offensive validation, defensive visibility, and AI automation. |
+| `projects` | Security tools spanning Zero Trust, passive reconnaissance, malware analysis, encrypted storage, and SOC workflows. |
+| `architecture` | Scroll to the architecture lab below for system-level diagrams. |
+| `stack` | Python, C++, TypeScript, Linux, Bash, Flask, React, Ollama, YARA, and Git. |
+| `contact` | Open an issue or discussion in the relevant repository. |
+
+</details>
+
+## `// security telemetry`
+
+These counters represent **documented capabilities in the featured projects**, not live claims about external threat activity.
+
+<div align="center">
+
+<a href="https://github.com/anon-443/ZTNA-Self-Healing-Network-Architecture"><img src="https://img.shields.io/badge/Detection%20pipeline-Detect%20%E2%86%92%20Decide%20%E2%86%92%20Enforce-00D9A6?style=for-the-badge&labelColor=0B0F19" alt="ZTNA detection pipeline" /></a>
+<a href="https://github.com/anon-443/ZTNA-Self-Healing-Network-Architecture"><img src="https://img.shields.io/badge/Response%20target-%3C500ms-F97316?style=for-the-badge&labelColor=0B0F19" alt="ZTNA response target under 500 milliseconds" /></a>
+<a href="https://github.com/anon-443/Secure-Distributed-File-System-with-AI-Monitoring-Agent"><img src="https://img.shields.io/badge/Encrypted%20cluster-3%20storage%20nodes-7C3AED?style=for-the-badge&labelColor=0B0F19" alt="Three-node encrypted storage cluster" /></a>
+<a href="https://github.com/anon-443/Secure-Distributed-File-System-with-AI-Monitoring-Agent"><img src="https://img.shields.io/badge/Service%20model-7%20independent%20services-2563EB?style=for-the-badge&labelColor=0B0F19" alt="Seven independent services" /></a>
+<a href="https://github.com/anon-443/YARA-Strings-Metadata-Static-Malware-Analyzer-Tool"><img src="https://img.shields.io/badge/Threat%20analysis-YARA%20%2B%20entropy%20%2B%20scoring-E11D48?style=for-the-badge&labelColor=0B0F19" alt="YARA entropy and threat scoring" /></a>
+<a href="https://github.com/anon-443/cybershield-sme"><img src="https://img.shields.io/badge/Assessment%20model-HTTPS%20%7C%20DNS%20%7C%20RDAP-F59E0B?style=for-the-badge&labelColor=0B0F19" alt="CyberShield passive assessment model" /></a>
+
+</div>
 
 ## `// featured operations`
 
 ### [ZTNA Self-Healing Network Architecture](https://github.com/anon-443/ZTNA-Self-Healing-Network-Architecture)
 
-A Zero Trust architecture with **AI threat analysis, dynamic trust scoring, self-healing enforcement, and a real-time SOC dashboard**. The project follows a detect → decide → enforce loop designed for rapid response.
+A NIST SP 800-207-aligned Zero Trust implementation that correlates ICMP, SYN, UDP-flood, port-scan, and DDoS signals; assigns per-IP trust scores; enriches events with local AI analysis and GeoIP context; and enforces response through iptables with watchdog re-verification. The project also includes an HTTPS SOC dashboard and HMAC-SHA256 audit logging.
+
+<img src="https://raw.githubusercontent.com/anon-443/anon-443/output/ztna-architecture.svg.png" alt="ZTNA self-healing architecture diagram" width="100%" />
 
 ### [CyberShield SME](https://github.com/anon-443/cybershield-sme)
 
-A cybersecurity posture-assessment platform for small and medium businesses. It combines **permission-first passive reconnaissance, HTTPS/DNS/RDAP evidence, A–F scoring, report generation, and AI-assisted remediation guidance**.
+An authorization-first, passive posture-assessment platform for small and medium businesses. It reviews HTTPS/TLS, selected headers and cookies, DNS, SPF, DMARC, MX, RDAP, certificate-transparency context, and public metadata; then produces deterministic A–F scoring, evidence-led reports, and AI-assisted remediation wording without letting the AI invent findings.
+
+<img src="https://raw.githubusercontent.com/anon-443/anon-443/output/cybershield-architecture.svg.png" alt="CyberShield SME architecture diagram" width="100%" />
 
 ### [Secure Distributed File System with AI Monitoring](https://github.com/anon-443/Secure-Distributed-File-System-with-AI-Monitoring-Agent)
 
-A security-focused distributed storage project combining **AES-256-GCM encryption, JWT-based Zero Trust authentication, real-time AI threat detection with Ollama, and GRC compliance monitoring**.
+A seven-process local distributed file system with JWT-based Zero Trust authentication, AES-256-GCM encryption for file chunks, three-node replication, and detection coverage for brute force, ransomware, DDoS, and exfiltration patterns. A local Ollama agent performs root-cause analysis while the GRC dashboard maps security posture to NIST AI RMF, ISO 27001, and OWASP-oriented views.
+
+<img src="https://raw.githubusercontent.com/anon-443/anon-443/output/sdfs-architecture.svg.png" alt="Secure distributed file system architecture diagram" width="100%" />
 
 ### [YARA Strings & Metadata Static Analyzer](https://github.com/anon-443/YARA-Strings-Metadata-Static-Malware-Analyzer-Tool)
 
-A practical malware-analysis tool using **YARA rules, entropy analysis, Base64 decoding, metadata inspection, and GUI/PDF reporting** to turn suspicious files into structured evidence.
+A focused static-analysis workbench that combines YARA rules with MITRE ATT&CK mapping, string and metadata extraction, Shannon entropy, Base64 payload detection, weighted 0–100 threat scoring, a five-tab GUI, and PDF report export. The included samples are educational simulations rather than real malware.
 
 <div align="center">
-
 <a href="https://github.com/anon-443?tab=repositories"><img src="https://img.shields.io/badge/Explore%20all%20repositories-111827?style=for-the-badge&logo=github&logoColor=white&color=4C1D95" alt="Explore all repositories" /></a>
-
 </div>
 
 ## `// technology stack`
 
 <div align="center">
-
 <img src="https://skillicons.dev/icons?i=python,cpp,typescript,html,linux,bash,git,github&theme=dark" alt="Python, C++, TypeScript, HTML, Linux, Bash, Git, and GitHub icons" />
-
 </div>
 
 ## `// activity telemetry`
 
 <div align="center">
-
 <img height="175" src="https://github-readme-stats.vercel.app/api?username=anon-443&show_icons=true&hide_border=true&bg_color=070A12&title_color=00D9A6&icon_color=F97316&text_color=CBD5E1&ring_color=7C3AED&include_all_commits=true" alt="GitHub activity statistics" />
 <img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anon-443&layout=compact&hide_border=true&bg_color=070A12&title_color=00D9A6&text_color=CBD5E1&langs_count=6" alt="Top programming languages" />
-
 </div>
 
 ## `// contribution signal`
 
 <div align="center">
-
 <img src="https://raw.githubusercontent.com/anon-443/anon-443/output/github-contribution-grid-snake-dark.svg" alt="Animated contribution grid" />
-
 </div>
 
 ## `// establish contact`
@@ -81,7 +124,5 @@ A practical malware-analysis tool using **YARA rules, entropy analysis, Base64 d
 For collaboration, purple-team experimentation, security research, or project feedback, open an issue or discussion in the relevant repository. The strongest work happens where offensive insight becomes measurable defensive progress.
 
 <div align="center">
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9A6,45:4C1D95,100:070A12&height=105&section=footer" width="100%" />
-
 </div>
