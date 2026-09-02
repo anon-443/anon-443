@@ -19,7 +19,7 @@ Cybersecurity-focused builder with a growing interest in **purple teaming, threa
 ## `// security skills`
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/anon-443/anon-443/main/assets/security-skills.svg" alt="Animated security skill icons for Purple Team, Threat Detection, AI Automation, and Secure Engineering" width="100%" />
+<img src="https://raw.githubusercontent.com/anon-443/anon-443/main/assets/security-skills-compact.svg" alt="Security skills" width="720" />
 </div>
 
 ## `// interactive terminal`
